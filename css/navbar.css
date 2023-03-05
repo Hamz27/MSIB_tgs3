@@ -1,0 +1,32 @@
+a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-weight: lighter;
+    width: 70px;
+    text-align: center;
+}
+a:hover{
+    background-color: #ffffff;
+    color: #212529;
+    border-radius: 2px;
+}
+
+.head1{
+    width: 100%;
+    height: fit-content;
+    background-color: #212529;
+    color: #ffffff;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.font{
+    font-size: 40px;
+    color: #ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
